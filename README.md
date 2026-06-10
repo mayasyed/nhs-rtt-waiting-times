@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analysing NHS Referral to Treatment (RTT) waiting times across England from January 2021 to March 2025. Built as a portfolio project to demonstrate Power BI, DAX, and healthcare data analysis skills.
 
-![NHS RTT Waiting Times Dashboard](dashboard.png)
-
 ---
 
 ## Overview
