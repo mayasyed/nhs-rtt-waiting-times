@@ -83,6 +83,12 @@ The Summary page is complete and published. A Detail page with a specialty level
 
 ---
 
+## How this was built (AI transparency)
+
+I used Claude as a pair-analyst while building this dashboard — debugging DAX measures, refining the date table relationships, and tightening this documentation. The analysis questions, dashboard design, and validation of the figures against the published NHS RTT statistics are my own.
+
+---
+
 ## Author
 
 **Mahanoor Shams**
